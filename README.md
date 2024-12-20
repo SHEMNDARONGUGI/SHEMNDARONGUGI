@@ -5,6 +5,11 @@
 ## ❄️About Me:
 ## Computer Scientist | Tech enthusiast | Problem Solver | Time cautious | Critical Thinker
 
+🚀 I’m driven by the potential of technology to solve real-world problems and create meaningful change.  
+🌐 I have hands-on experience building web apps with Django and always learn new tools and frameworks.  
+🛠️ I use Git daily for managing code, collaborating with teams, and keeping projects organized and efficient.  
+🌱 I enjoy collaborating, sharing knowledge, and learning from different perspectives to build the best solutions possible.
+
 
 
 <!--
