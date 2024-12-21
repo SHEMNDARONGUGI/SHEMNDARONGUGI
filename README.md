@@ -8,7 +8,14 @@
 🚀 I’m driven by the potential of technology to solve real-world problems and create meaningful change.  <br>
 🌐 I have hands-on experience building web apps with Django and always learn new tools and frameworks.  <br>
 🛠️ I use Git daily for managing code, collaborating with teams, and keeping projects organized and efficient.  <br>
-🌱 I enjoy collaborating, sharing knowledge, and learning from different perspectives to build the best solutions possible.<br>
+🌱 I enjoy collaborating, sharing knowledge, and learning from different perspectives to build the best solutions possible.<br><br><br>
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@its_Shem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shem-ndaro-ngugi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndaroshem@gmail.com)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SirShemFx)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SHEMNDARONGUGI)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/j4x8um)
+
 
 ## Languages and Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
