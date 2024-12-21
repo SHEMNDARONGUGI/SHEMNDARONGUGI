@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 ## ❄️About Me:
-## Computer Scientist | Tech enthusiast | Problem Solver | Time cautious | Critical Thinker
+## Computer Scientist | Web Developer | Tech enthusiast | Problem Solver
 
 🚀 I’m driven by the potential of technology to solve real-world problems and create meaningful change.  <br>
 🌐 I have hands-on experience building web apps with Django and always learn new tools and frameworks.  <br>
