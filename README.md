@@ -36,7 +36,8 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Github Stats:
-![SHEMNDARONGUGI's Stats](https://github-readme-stats.vercel.app/api?username=SHEMNDARONGUGI&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) ![SHEMNDARONGUGI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHEMNDARONGUGI&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![SHEMNDARONGUGI's Stats](https://github-readme-stats.vercel.app/api?username=SHEMNDARONGUGI&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) <br>
+![SHEMNDARONGUGI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHEMNDARONGUGI&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=SHEMNDARONGUGI&icon=0&color=0)](https://visitcount.itsvg.in)
 
