@@ -36,7 +36,7 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Github Stats:
-![SHEMNDARONGUGI's Stats](https://github-readme-stats.vercel.app/api?username=SHEMNDARONGUGI&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) <br>
+![SHEMNDARONGUGI's Stats](https://github-readme-stats.vercel.app/api?username=SHEMNDARONGUGI&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) <br><br>
 ![SHEMNDARONGUGI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHEMNDARONGUGI&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ## Most Used Languages:
