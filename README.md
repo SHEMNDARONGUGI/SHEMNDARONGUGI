@@ -35,6 +35,10 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## Quote:
+"There is No “Perfect”
+Language to Learn."
+
 ## Github Stats:
 ![SHEMNDARONGUGI's Stats](https://github-readme-stats.vercel.app/api?username=SHEMNDARONGUGI&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) <br><br>
 ![SHEMNDARONGUGI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SHEMNDARONGUGI&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
