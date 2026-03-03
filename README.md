@@ -1,4 +1,4 @@
-# 🌌 Shem Ndaro — Software Engineer in Progress
+# 🌌 Shem Ndaro — Aspiring Software Engineer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70A5FD,100:0B0F19&height=200&section=header&text=Shem%20Ndaro&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
