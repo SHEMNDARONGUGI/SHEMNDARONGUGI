@@ -12,12 +12,12 @@
 
 ## 🧭 Professional Summary
 
-🎓 Computer Science student with strong foundations in software engineering  
-🚀 Focused on building scalable, efficient and maintainable systems  
-🌐 Backend-leaning developer experienced in Django and MERN stack  
-⚙️ Strong workflow discipline using Git, Linux and modern tooling  
-📚 Actively deepening knowledge in DevOps and system design  
-🤝 Thrive in collaborative environments and continuous learning cultures  
+🎓 Computer Science student with strong foundations in software engineering
+🚀 Focused on building scalable, efficient and maintainable systems
+🌐 Backend-leaning developer deepening expertise in Django and MERN stack
+⚙️ Strong workflow discipline using Git, Linux and modern development tooling
+📚 Continuously expanding knowledge in backend architecture, DevOps and system design
+🤝 Thrive in collaborative environments, open-source learning and continuous improvement
 
 ---
 
